@@ -334,7 +334,7 @@ section .header{
     margin-bottom:80px
 }
 .hero .hero-content{
-    padding-top:40%
+    padding-top:15%
 }
 .hero .hero-content img{
     width:55%;
@@ -413,7 +413,7 @@ header .member-actions{
     color:#fff;
     font-size:30px;
     position:absolute;
-    bottom:30px;
+    bottom:50px;
     left:50%;
     transform:translateX(-50%)
 }
